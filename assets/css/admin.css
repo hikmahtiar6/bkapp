@@ -1,0 +1,41 @@
+.konfig-judul {
+	border-bottom: 1px solid orange;
+}
+.title-top a {
+	color: #fff;
+}
+.strip td {
+	padding:5px;
+	font-size: 14px;
+	border:2px solid #fff;
+}
+.strip {
+	width: 100%;
+	height: auto;
+}
+.main-sidebar, .left-side {
+	height: auto;
+}
+
+.atas {
+	padding: 5px;
+	padding-left: 30px;
+}
+.atas img {
+	margin-right: 10px;
+}
+.side-gis {
+	padding-top: 90px;
+}
+.judul-web h2{
+	padding: 0 !important;
+	margin: 0 !important;
+	text-transform: uppercase;
+	font-size: 24pt;
+}
+.judul-web p {
+	padding: 0 !important;
+	margin: 0 !important;
+	text-transform: uppercase;
+	font-size: 18pt;
+}

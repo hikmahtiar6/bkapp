@@ -1,0 +1,16 @@
+lokasi_uji;tahunuji;parameter;baku_mutu;tandabaca;hasil_uji;keterangan
+12;2010;1;180;;42.78;Memenuhi
+12;2010;2;365;;31.16;Memenuhi
+12;2010;3;10000;;3215;Memenuhi
+12;2010;4;2;;0.035;Memenuhi
+12;2010;5;24;;0.71;Memenuhi
+12;2010;6;235;;28.15;Memenuhi
+12;2010;7;160;;71.87;Memenuhi
+12;2010;8;2;<;0.2;Memenuhi
+12;2010;9;230;;139.11;Memenuhi
+12;2010;10;60;;68.5;Tidak Memenuhi
+12;2010;11;-;;32.8 - 33.6;Memenuhi
+12;2010;12;-;;0.6 - 1.9;Memenuhi
+12;2010;13;-;;48.2 - 51.2;Memenuhi
+12;2010;14;-;;Selatan;Memenuhi
+12;2010;15;-;;Cerah;Memenuhi

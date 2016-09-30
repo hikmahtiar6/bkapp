@@ -1,0 +1,17 @@
+{
+  "name": "bkapp",
+  "homepage": "https://github.com/hikmahtiar6/bkapp",
+  "authors": [
+    "hikmahtiar.cool <hikmahtiar.cool@gmail.com>"
+  ],
+  "description": "aplikasi bplh kota bogor",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
